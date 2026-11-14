@@ -30,3 +30,7 @@ Sources: https://de.linkedin.com/in/ardacekmece and https://de.linkedin.com/in/a
 ## Content and configuration
 
 All interface copy, sections and interactive code live in `src/main.tsx`. Change the LinkedIn URL in `LINKEDIN`. No API keys needed. External Google Fonts are optional; local serif/sans fallbacks are provided.
+
+
+## CV-based revision (November 2026)
+Content updated from the supplied 3-page Europass CV, including IELEV IB/GIB (2020–2025), Boğaziçi summer school (2023), LMU Economics B.Sc. (since October 2025), WASTI membership (since October 2025), ijgd Wolfsburg environmental workcamp (2024), coursework and languages. The supplied authorized portrait is included at `public/portrait.jpg`. Sensitive CV details (passport, residential address, date of birth, personal phone and email) are intentionally excluded from the public website.
